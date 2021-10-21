@@ -1,0 +1,40 @@
+aqui algunos comandos que pueden servir para cuando vayas a correr
+los programas en la terminal (cmd, command prompt, etc...)
+
+nota: los archivos python siempre deben terminar en .py
+nota2: para empezar a programar primero crea una carpeta
+despues guardas el file dentro de la carpeta
+
+windows buttom + R (corre el run, para comandar tareas mas rapido)
+
+'cls' + enter (limitodo lo que este escrito en la terminal previamente)
+
+'cd' + lugar donde quieres mandar al cmd + enter
+ (se usa para localizar el command prompt, eje: si quieres que
+el cmd vaya a desktop, pones cd desktop y se dirige ahi)
+ojo: si quieres mandar el cmd a un archivo de documentos (como ejemplo)
+debes hacerlo por orden 
+(cd documents + enter, despues cd 'nombre de archivo + enter)
+
+'python' + enter (te permite correr python en el cmd)
+
+'python "file.py"' (corre el archivo en la terminal)
+
+'pip' utilizado para instalar modulos externos de python
+ tienes que hacerlo desde el cmd
+
+orden de los .py que hice
+0. main
+1. datatype
+2. variables
+3. strings
+4. numbers
+5. lists
+6. tuples
+7. set
+8. dictionaries
+9. conditionals
+10. loops
+11. functions
+12. modules & fmath
+
